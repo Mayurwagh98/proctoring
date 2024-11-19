@@ -1,6 +1,11 @@
+import FaceRecognitionWithVideo from "./assets/FaceRec";
 
 function App() {
-  return <>mayur</>;
+  return (
+    <>
+      <FaceRecognitionWithVideo />
+    </>
+  );
 }
 
 export default App;
